@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T17:13:40.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="7U6UODb8y5OogAPrYMdO" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-06T17:17:16.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Mve9STYFHq7M3MAa2CpJ" version="18.0.1" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="1447" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3472" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2511,6 +2511,12 @@
         </mxCell>
         <mxCell id="1xs2wTyu8J6TD5JoGst9-1296" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;strokeWidth=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="3628.98" y="2222.79" width="30" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="1xs2wTyu8J6TD5JoGst9-1297" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.elevator;strokeWidth=0;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="50" width="860" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="1xs2wTyu8J6TD5JoGst9-1298" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry width="3990" height="2900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
